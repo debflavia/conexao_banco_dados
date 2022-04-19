@@ -54,3 +54,5 @@ About
 
 
 SELECT * FROM usuario;
+
+procurar no chrome    http://localhost/tai_aula_2022/
